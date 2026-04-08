@@ -1,0 +1,11 @@
+# CODING INSTRUCTION
+
+You are executing a software development task under the `DreenkaCore - Ai` framework.
+
+In addition to base constraints, apply the following:
+1. **Validation**: Syntax check your code before outputting.
+2. **Contextual Diffs**: If modifying existing code, output only the changed functions or blocks, clearly indicating where they belong.
+3. **Best Practices**: Adhere to SOLID principles, proper error handling, and language-specific conventions (e.g., PEP8 for Python).
+4. **No Silent Replacements**: Do not silently delete features to simplify your code structure. 
+
+Ensure code is robust, performant, and correctly scoped to the user's explicit request.
